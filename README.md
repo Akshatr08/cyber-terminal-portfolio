@@ -11,7 +11,7 @@
 It boots up with a Matrix-like animation, reveals your profile through a typing sequence,  
 and then lets visitors explore using real terminal commands.  
 
-⚡️ Demo: [Live Preview](https://your-demo-link.com)  
+⚡️ Demo: [Live Preview](https://akshatmatrix.netlify.app/)  
 
 ---
 
@@ -137,7 +137,7 @@ https://your-username.github.io/cyber-terminal-portfolio/
 🧑‍💻 Contributing
 Pull requests are welcome!
 If you build a cooler version — add new commands, animations, or easter eggs —
-drop a PR or share it with #cyber-terminal tag on X/LinkedIn.
+drop a PR or share it with #cyberterminal tag on X/LinkedIn.
 
 📜 License
 This project is licensed under the MIT License — feel free to use, remix, or rebuild it for your own portfolio.
